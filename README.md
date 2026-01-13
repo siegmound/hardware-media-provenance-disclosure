@@ -12,3 +12,5 @@ public blockchain anchoring.
 
 The purpose of this publication is to establish prior art and prevent exclusive
 patent claims on the described architecture.
+
+DOI 10.5281/zenodo.18236744
