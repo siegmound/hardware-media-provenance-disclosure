@@ -1,9 +1,6 @@
-# hardware-media-provenance-disclosure
-
-
 # Hardware-Anchored Media Provenance
 
-Author: Jose Pineda  
+Author: Jose Luis Junior Pineda Fritas  
 Date: 2026-01-13  
 
 This repository contains a defensive technical disclosure describing a system
